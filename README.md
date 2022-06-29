@@ -25,11 +25,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Taha Kerim Sezer</h1>
 <h3 align="center">An engineer passionate about Data Science</h3>
 
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahasezer&label=Profile%20views&color=0e75b6&style=flat" alt="tahasezer" /> </p>
+--->
 
 - 🌱 I’m currently pursuing **IBM Data Science Professional Certificate course on Coursera**
 
-- 📫 How to reach me **tahakerimsezer@gmail.com**
+- 📫 You can reach me from **tahakerimsezer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
