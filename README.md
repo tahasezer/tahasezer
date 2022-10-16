@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahasezer&label=Profile%20views&color=0e75b6&style=flat" alt="tahasezer" /> </p>
 --->
 
-- 🌱 I’m currently pursuing **[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) course on Coursera**
+
 
 - 📫 You can reach me from **tahakerimsezer@gmail.com**
 
