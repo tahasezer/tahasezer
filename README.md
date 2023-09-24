@@ -44,7 +44,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Badges:</h3>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="afd8c213-78a7-4dba-b787-e534ab183a9a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Credly Badges](https://images.credly.com/size/340x340/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/earner/earned/badge/afd8c213-78a7-4dba-b787-e534ab183a9a)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
