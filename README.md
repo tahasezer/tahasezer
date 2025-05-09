@@ -42,9 +42,6 @@ You can click the Preview link to take a look at your changes.
 --->
 </p>
 
-<h3 align="left">Badges:</h3>
-
-[![Credly Badges](https://images.credly.com/size/100x100/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/afd8c213-78a7-4dba-b787-e534ab183a9a/public_url)
 
 
 <h3 align="left">Languages and Tools:</h3>
